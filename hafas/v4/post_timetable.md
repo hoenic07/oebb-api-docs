@@ -45,7 +45,8 @@ Use the [Authentication endpoint](../../domain/v4/get_init.md) to generate the a
     }
 }
 ```
-The `number` values for `from` and `to` needs to be used from the [Stations](../v1/get_stations.md) response.
+
+The `number` values for `from` and `to` need to be used from the [Stations](../v1/get_stations.md) response.
 
 Only options available on https://tickets.oebb.at are documented.
 

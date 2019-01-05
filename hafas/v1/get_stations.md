@@ -54,5 +54,3 @@ https://tickets.oebb.at/api/hafas/v1/stations?name=Wien
     }
 ]
 ```
-
-`number` needs to be used for 

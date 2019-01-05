@@ -34,10 +34,10 @@ Channel: inet
     "personId": "anonym-a2907114-febf-46",
     "customerId": "anonym-a2907114-febf-46",
     "realm": "customer",
-    "sessionId": "session:d195af1a-ddcb-4815-961d-45b121a476fa",
+    "sessionId": "...",
     "sessionTimeout": 2400,
     "sessionVersion": "0.0.2",
     "sessionCreatedAt": "2019-01-05T18:38:16.069Z",
-    "xffxIP": "81.10.244.4    "
+    "xffxIP": "..."
 }
 ```
